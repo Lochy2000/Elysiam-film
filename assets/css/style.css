@@ -6,7 +6,7 @@ body {
     color: #FFD700;
     margin: 0;
     padding: 0;
-    background-image: url('/assets/imgs/test-img6.webp');
+    background-image: url('../imgs/test-img6.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
