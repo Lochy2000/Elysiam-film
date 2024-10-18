@@ -6,7 +6,7 @@ body {
     color: #FFD700;
     margin: 0;
     padding: 0;
-    background-image: url('../imgs/test-img6.webp');
+    background-image: url('assets/imgs/test-img6.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -36,7 +36,7 @@ h1, h2 {
     margin: 20px auto;
     width: 200px;
     height: 200px;
-    background-image: url('/assets/imgs/test-img.jpg');
+    background-image: url('assets/imgs/test-img.jpg');
     background-size: cover;
     border-radius: 50%;
     box-shadow: 0 0 20px #FFD700;
